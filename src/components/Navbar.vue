@@ -34,7 +34,7 @@ const props = defineProps({
             }}</router-link>
           </li>
         </ul>
-        <form class="d-flex" role="search">
+        <!-- <form class="d-flex" role="search">
           <input
             class="form-control me-2"
             type="search"
@@ -42,7 +42,7 @@ const props = defineProps({
             aria-label="Search"
           />
           <button class="btn btn-outline-success" type="submit">Search</button>
-        </form>
+        </form> -->
         <ul class="navbar-nav">
           <li class="nav-item">
             <router-link class="nav-link active" to="/keranjang">

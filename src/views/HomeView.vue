@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <HeroPage />
-    <div class="row section mb-8">
+    <div class="row section">
       <div
         class="col"
         data-aos="fade-up-left"
@@ -21,7 +21,9 @@
           <span> See All Menus</span>
         </router-link>
       </div>
-      <!-- Card Menu -->
+    </div>
+    <!-- Card Menu -->
+    <div class="row">
       <CardMenu />
     </div>
   </div>

@@ -1,7 +1,7 @@
 <template>
   <div class="row">
-    <div class="col-md-3 mt-4" v-for="item in menuItems" :key="item.id">
-      <div class="card" style="width: 18rem">
+    <div class="col-md-3" v-for="item in menuItems" :key="item.id">
+      <div class="card shadow" style="width: 100%">
         <img
           :src="'./assets/img/' + item.gambar"
           class="card-img-top"
@@ -17,7 +17,7 @@
             to="/menu"
             class="btn btn-success float-start d-flex gap-2"
             ><box-icon name="cart-add" type="solid" color="#ffffff" />
-            <span>Order</span>
+            <span>Add to Cart</span>
           </router-link>
         </div>
       </div>
