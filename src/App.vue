@@ -1,5 +1,7 @@
 <script setup>
 import Navbar from "./components/Navbar.vue";
+import Footer from "./components/Footer.vue";
+import CardMenu from "./components/CardMenu.vue";
 import AnimationPage from "./components/AnimationPage.vue";
 import { ref } from "vue";
 
@@ -20,6 +22,9 @@ const navs = ref([
 
   <!-- Radio Button -->
   <AnimationPage />
+
+  <!-- Footer -->
+  <Footer />
 </template>
 
 <style></style>
