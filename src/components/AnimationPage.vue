@@ -25,7 +25,7 @@ const anim = ref("fade");
           ></button>
         </div>
         <div class="modal-body">
-          <div class="container d-flex">
+          <div class="container d-flex mx-auto">
             <label>Select Animation: </label>
             <div class="form-check">
               <label>

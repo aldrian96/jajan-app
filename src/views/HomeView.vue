@@ -4,7 +4,7 @@
     <div class="row section">
       <div
         class="col"
-        data-aos="fade-up-left"
+        data-aos="fade-right"
         data-aos-delay="50"
         data-aos-duration="3000"
       >
@@ -14,10 +14,10 @@
         <router-link
           to="/menu"
           class="btn btn-success float-end d-flex gap-2"
-          data-aos="fade-up-right"
+          data-aos="fade-left"
           data-aos-delay="50"
           data-aos-duration="3000"
-          ><box-icon name="bowl-hot" color="#ffffff" />
+          ><box-icon name="food-menu" color="#ffffff" />
           <span> See All Menus</span>
         </router-link>
       </div>

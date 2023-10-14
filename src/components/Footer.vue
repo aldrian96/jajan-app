@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <p>&copy; 2023 Your Website</p>
+          <p>&copy; 2023 Created By Vue 3</p>
         </div>
         <div class="col-md-6">
           <ul class="list-inline text-md-end">

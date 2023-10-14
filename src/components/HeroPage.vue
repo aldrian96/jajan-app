@@ -9,7 +9,6 @@
           data-aos-delay="100"
           data-aos-duration="1100"
           data-aos-easing="ease-in-out"
-          data-aos-mirror="true"
         >
           <div class="d-flex h-75">
             <div class="justify-content-center align-self-center">
@@ -32,7 +31,6 @@
           data-aos-delay="50"
           data-aos-duration="1000"
           data-aos-easing="ease-in-out"
-          data-aos-mirror="true"
         >
           <img src="../assets/img/ilustrasi.png" alt="ilustrasi" width="100%" />
         </div>
@@ -49,7 +47,6 @@
           data-aos-delay="50"
           data-aos-duration="1000"
           data-aos-easing="ease-in-out"
-          data-aos-mirror="true"
         >
           <img src="../assets/img/ilustrasi.png" alt="ilustrasi" width="100%" />
         </div>
